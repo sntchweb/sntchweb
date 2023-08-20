@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=100&background=FFFFFF00&width=435&lines=Welcome+to+my+GitHub+profile+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=300&center=true&width=435&lines=Welcome+to+my+GitHub+profile+!)](https://git.io/typing-svg)
 
 ```python
 class AboutMe:
