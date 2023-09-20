@@ -9,8 +9,8 @@ class AboutMe:
     current_working_status = 'looking for a job as a Python backend developer'
     hobbies = [
         'Programming',
-        'Workout'
-        'Motorcycling'
+        'Workout',
+        'Motorcycling',
     ]
 
     def get_my_contacts(self):
