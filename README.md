@@ -13,10 +13,9 @@ class AboutMe:
         'Motorcycling',
     ]
 
-    def get_my_contacts(self):
+    def get_my_contacts():
         return ('email: lashin.artem028@gmail.com \n'
-                'telegramm: @sntchweb \n'
-                'telephone_number: +7(999)-601-02-82')
+                'telegramm: @sntchweb \n')
 ```
 
 My skills :rocket::
