@@ -6,7 +6,7 @@ class AboutMe:
 
     full_name = 'Lashin Artem'
     city_of_living = 'Astrakhan'
-    current_working_status = 'looking for a job as a Python backend developer'
+    current_working_status = 'Python backend developer'
     hobbies = [
         'Programming',
         'Workout',
