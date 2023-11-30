@@ -29,11 +29,17 @@ My skills :rocket::
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
    <img src="https://cdn.iconscout.com/icon/free/png-256/django-2-282855.png" alt="django-rest-framework" width="40" height="40"/> 
   </a>
+ <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="django-rest-framework" width="40" height="40"/> 
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
+    <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
     </a>
     <a href="https://github.com/" target="_blank" rel="noreferrer"> 
