@@ -14,8 +14,10 @@ class AboutMe:
     ]
 
     def get_my_contacts():
-        return ('email: lashin.artem028@gmail.com \n'
-                'telegramm: @sntchweb')
+        return (
+            'email: lashin.artem028@gmail.com \n'
+            'telegramm: @sntchweb'
+        )
 ```
 
 My skills :rocket::
