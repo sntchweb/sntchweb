@@ -15,7 +15,7 @@ class AboutMe:
 
     def get_my_contacts():
         return (
-            'email: lashin.artem028@gmail.com \n'
+            'email: lashin.artem028@gmail.com'
             'telegramm: @sntchweb'
         )
 ```
