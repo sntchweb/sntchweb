@@ -4,7 +4,6 @@
 class AboutMe:
     """Some information about me."""
 
-    full_name = 'Lashin Artem'
     city_of_living = 'Astrakhan'
     current_working_status = 'Python backend developer'
     hobbies = [
